@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        tools:context=".ContactInformationActivity"
+        android:background="@drawable/background">
+
+        <TextView
+            android:id="@+id/textView12"
+            android:textAlignment="center"
+            android:textSize="30sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#2B99F1"
+            android:textColor="#FFFFFF"
+            android:text="@string/textView12"
+            android:gravity="center_horizontal" />
+
+        <TextView
+            android:id="@+id/textView13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="30dp"
+            android:text="@string/textView13"
+            android:layout_marginStart="20dp" />
+
+        <EditText
+            android:id="@+id/txtPhone"
+            android:layout_width="320dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center_horizontal"
+            android:inputType="phone" />
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:text="@string/textView14"
+            android:layout_marginStart="20dp" />
+
+        <EditText
+            android:id="@+id/txtEmail"
+            android:layout_width="320dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center_horizontal"
+            android:inputType="textEmailAddress" />
+
+        <TextView
+            android:id="@+id/textView15"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:text="@string/textView15"
+            android:layout_marginStart="20dp" />
+
+        <EditText
+            android:id="@+id/txtHome"
+            android:layout_width="320dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center_horizontal"
+            android:inputType="textPersonName" />
+
+        <Button
+            android:id="@+id/btnConfirm"
+            android:layout_width="140dp"
+            android:layout_height="60dp"
+            android:layout_marginLeft="200dp"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/custom_button"
+            android:textColor="#FFFFFF"
+            android:text="@string/btnConfirm"
+            android:textSize="20sp"
+            android:layout_marginStart="200dp" />
+    </LinearLayout>
+</ScrollView>

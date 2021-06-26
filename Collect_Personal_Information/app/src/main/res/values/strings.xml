@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Collect_Personal_Information</string>
+
+    <string name="textView39">Collect Personal Information</string>
+    <string name="txtUser">Username</string>
+    <string name="txtPass">Password</string>
+    <string name="btnLogin">Login</string>
+
+    <string name="textView">Name List</string>
+    <string name="btnAdd">Add</string>
+
+    <string name="textView1">Information</string>
+    <string name="btnPerInfo">Personal Information</string>
+    <string name="btnHobby">Hobby</string>
+    <string name="btnContInfo">Contact Information</string>
+    <string name="btnWork">Work</string>
+    <string name="btnSave">Save</string>
+
+
+    <string name="textView2">Personal Information</string>
+    <string name="textView3">Name:</string>
+    <string name="textView4">Date of birth:</string>
+    <string name="btnChoose">Choose</string>
+    <string name="textView5">Gender:</string>
+    <string name="rdbMale">Male</string>
+    <string name="rdbFemale">Female</string>
+    <string name="textView6">Identity card:</string>
+    <string name="textView6.1">Image:</string>
+    <string name="btnConfirm">Confirm</string>
+
+    <string name="textView7">Your Hobby</string>
+    <string name="textView8">Music:</string>
+    <string name="textView9">Sport:</string>
+    <string name="textView10">Movie:</string>
+    <string name="textView11">Pet:</string>
+
+    <string name="textView12">Contact Information</string>
+    <string name="textView13">Phone number:</string>
+    <string name="textView14">Email:</string>
+    <string name="textView15">Home address:</string>
+
+    <string name="textView16">Your Work</string>
+    <string name="textView17">Job:</string>
+    <string name="textView18">Position:</string>
+    <string name="textView19">Workplace address:</string>
+    <string name="textView20">Salary:</string>
+
+    <string name="textView21">Name:</string>
+    <string name="textView22">Date of birth:</string>
+    <string name="textView23">Gender:</string>
+    <string name="textView24">Identity card:</string>
+    <string name="textView25">Hobby:</string>
+    <string name="textView26">Music:</string>
+    <string name="textView27">Sport:</string>
+    <string name="textView28">Movie:</string>
+    <string name="textView29">Pet:</string>
+    <string name="textView30">Contact Information:</string>
+    <string name="textView31">Phone number:</string>
+    <string name="textView32">Email:</string>
+    <string name="textView33">Home address:</string>
+    <string name="textView34">Work:</string>
+    <string name="textView35">Job:</string>
+    <string name="textView36">Position:</string>
+    <string name="textView37">Workplace address:</string>
+    <string name="textView38">Salary:</string>
+    <string name="btnOK">OK</string>
+</resources>
